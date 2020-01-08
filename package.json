@@ -1,6 +1,7 @@
 {
-  "name": "oh-my-react",
-  "version": "0.1.0",
+  "name": "berlin-traktor",
+  "version": "1.0.0",
+  "author": "Mike Syomin and hive mind",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
