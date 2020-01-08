@@ -30,7 +30,7 @@ jobs:
           version: '274.0.1'
           service_account_key: ${{ secrets.GCLOUD_AUTH }}
       - name: Deploy files
-        run: yarn run ssdeploy deploy
+        run: yarn run --verbose ssdeploy deploy
         env:
           GCLOUD_APP: ${{ secrets.GCLOUD_APP }}
           GCLOUD_PROJECT: ${{ secrets.GCLOUD_PROJECT }}
