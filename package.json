@@ -11,7 +11,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
-    "ssdeploy": "^0.4.2"
+    "ssdeploy": "github:Seminioni/ssdeploy"
   },
   "scripts": {
     "start": "react-scripts start",
